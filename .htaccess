@@ -1,0 +1,18 @@
+# Редирект с http на https создан автоматически при заказе бесплатного ssl-сертификата
+
+RewriteEngine On
+
+# HTTP → HTTPS с www
+RewriteCond %{SERVER_PORT} !^443$
+RewriteCond %{SERVER_NAME} ^www\. [NC]
+RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+
+RewriteCond %{SERVER_PORT} !^443$
+RewriteCond %{SERVER_NAME} !^www\. [NC]
+RewriteRule .* https://www.%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+
+# HTTPS без www → HTTPS с www
+RewriteCond %{SERVER_NAME} !^www\. [NC]
+RewriteRule .* https://www.%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+# Конец редиректа
+
