@@ -1,6 +1,6 @@
 # Редирект с http на https создан автоматически при заказе бесплатного ssl-сертификата
 
-RewriteEngine On
+RewriteEngine Off
 
 # HTTP → HTTPS с www
 RewriteCond %{SERVER_PORT} !^443$
