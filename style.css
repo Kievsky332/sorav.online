@@ -5,8 +5,8 @@ body{
 }
 a{
     color: #ffffff;
-    padding-right: 60px;
     text-decoration: none;
+    padding: 0;
 }
 #cc{
     font-size: 15px;
@@ -19,7 +19,6 @@ a{
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     overflow: hidden;
-    padding: 16px;
 }
  .card-container {
     margin-left: auto;
@@ -27,7 +26,6 @@ a{
     gap: 15px; 
     grid-template-columns: repeat(3, 1fr);
     gap: 16px;
-    padding: 16px;
 }
 img{
     width: 300px;
@@ -42,7 +40,6 @@ img{
   background-color: #EEE;
   box-sizing: border-box;
   box-shadow: 0 0 0px 1px rgba(0, 0, 0, 0.06);
-  padding: 0.25rem;
   width: 300px;
   font-size: 40px;
 }
