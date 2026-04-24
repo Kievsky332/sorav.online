@@ -23,7 +23,6 @@ a{
  .card-container {
     margin-left: auto;
     display: grid;
-    gap: 15px; 
     grid-template-columns: repeat(3, 1fr);
     gap: 16px;
 }
