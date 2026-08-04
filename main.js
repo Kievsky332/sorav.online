@@ -91,6 +91,7 @@ const projects = [
         siteUrl: "https://kievsky332.github.io/site-hvpn/",
         codeUrl: "https://github.com/kievsky332/site-hvpn/"
     },
+
     {
         name: "Money_Site",
         description: "Посчитайте сколько вы зарабатываете за минуту/секунду",
@@ -118,6 +119,13 @@ const projects = [
         lang: ["Javascript",'Css'],
         siteUrl: "https://kievsky332.github.io/find-a-spot/",
         codeUrl: "https://github.com/kievsky332/find-a-spot/"
+    },
+    {
+        name: "Cutl",
+        description: "твой псевдо сократитель ссылок. На самом деле это скрытый муу вирус.",
+        lang: ["Javascript",'Tailwind'],
+        siteUrl: "https://kievsky332.github.io/Cutl/",
+        codeUrl: "https://github.com/Kievsky332/Cutl"
     },
 ];
 
