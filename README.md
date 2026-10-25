@@ -10,7 +10,7 @@
 
 
 <!--Установка-->
-## Установка (Linux)
+## Установка 
 У вас должны быть установлены [зависимости проекта](https://github.com/OkulusDev/Oxygen#зависимости)
 
 1. Клонирование репозитория 
@@ -58,3 +58,8 @@
 | **Find a spot** | Мини-игра: найди точку менее чем за 2 секунды | JavaScript, CSS | [Сайт](https://kievsky332.github.io/find-a-spot/) • [Код](https://github.com/kievsky332/find-a-spot/) |
 | **Cutl** | Псевдо-сократитель ссылок с визуальными эффектами (⚠️ мигающие цвета) | JavaScript, Tailwind CSS | [Сайт](https://kievsky332.github.io/Cutl/) • [Код](https://github.com/Kievsky332/Cutl) |
 | **Dzr.Progs** | Сайт для дзержинского прогульщика | PHP, Tailwind CSS | [Сайт](https://luram.sorav.ru/dzr) |
+
+
+<p align="center">
+  <sub>© 2026 kievsky332<br> Сделано с  ❤️ </sub>
+</p>
