@@ -127,6 +127,12 @@ const projects = [
         siteUrl: "https://kievsky332.github.io/Cutl/",
         codeUrl: "https://github.com/Kievsky332/Cutl"
     },
+    {
+        name: "Dzr.Progs",
+        description: "Сайт для дзержинского прогульщика",
+        lang: ["Php",'Tailwind'],
+        siteUrl: "https://luram.sorav.ru/dzr"
+    },
 ];
 
 // ===== Экранирование HTML (защита от XSS, если данные когда-то станут динамическими) =====
