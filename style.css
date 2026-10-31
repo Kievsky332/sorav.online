@@ -47,8 +47,9 @@ a{
 .button2{
     background-color:#bc51b7;
 }
-.s-30{
+.s-30,footer{
     font-size: 30px;
+    text-align: center;
 }
 #sites{
     display: grid; 
