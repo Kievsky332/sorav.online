@@ -44,7 +44,6 @@
 | **Gemini-tailwind** | Пародия на интерфейс Gemini, написанная на Tailwind | Tailwind CSS | [Сайт](https://kievsky332.github.io/Gemini-tailwind/) • [Код](https://github.com/kievsky332/Gemini-tailwind/) |
 | **new-year-gift** | Юмористический новогодний сайт | CSS, JavaScript | [Сайт](https://kievsky332.github.io/new-year-gift) • [Код](https://github.com/kievsky332/new-year-gift/) |
 | **tired root** | Прототип маркетплейса (Luram) | CSS, JavaScript | [Сайт](https://kievsky332.github.io/market_luram) • [Код](https://github.com/kievsky332/market_luram/) |
-| **Smart_House** | Сайт для индивидуального проекта "Умный дом" | CSS, JavaScript | [Сайт](https://kievsky332.github.io/Smart_House) • [Код](https://github.com/kievsky332/Smart_House/) |
 | **Country_Checker** | Определение страны пользователя через API | CSS, JavaScript, API | [Сайт](https://kievsky332.github.io/Country_Checker/) • [Код](https://github.com/kievsky332/Country_Checker/) |
 | **AI BABUSHKA** | Переводчик текста в стиле "бабушки" (с API) | PHP, CSS, API | [Сайт](https://luram.sorav.ru/Ai-bubusia/) • [Код](https://github.com/kievsky332/AI_BABUSHKA/) |
 | **sorav.ru** | Сайт для отправки эмоций | PHP, JavaScript, Tailwind, CSS, API | [Сайт](https://sorav.ru) • [Код](https://github.com/kievsky332/sorav.ru/) |
