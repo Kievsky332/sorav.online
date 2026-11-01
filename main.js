@@ -43,13 +43,6 @@ const projects = [
         codeUrl: "https://github.com/kievsky332/Smart_House/"
     },
     {
-        name: "Generator_Biography",
-        description: "Генерирование ПСЕВДО рандомных данных",
-        lang: ["Css",'Javascript'],
-        siteUrl: "https://kievsky332.github.io/Generator_Biography",
-        codeUrl: "https://github.com/kievsky332/Generator_Biography/"
-    },
-    {
         name: "Country_Checker",
         description: "Определение страны (хз зачем)",
         lang: ["Css",'Javascript','API'],
