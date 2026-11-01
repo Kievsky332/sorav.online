@@ -36,13 +36,6 @@ const projects = [
         codeUrl: "https://github.com/kievsky332/market_luram/"
     },
     {
-        name: "Smart_House",
-        description: "Сайт по индивидуальному проекту",
-        lang: ["Css",'Javascript'],
-        siteUrl: "https://kievsky332.github.io/Smart_House",
-        codeUrl: "https://github.com/kievsky332/Smart_House/"
-    },
-    {
         name: "Country_Checker",
         description: "Определение страны (хз зачем)",
         lang: ["Css",'Javascript','API'],
