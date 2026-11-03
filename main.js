@@ -2,49 +2,49 @@
 const projects = [
     {
         name: "Rand-Q",
-        description: "Ну типо рандомный поиск",
+        description: "Генератор случайных поисковых запросов",
         lang: ["Tailwind"],
         siteUrl: "https://kievsky332.github.io/Rand-Q/",
         codeUrl: "https://github.com/kievsky332/Rand-Q/"
     },
     {
         name: "chatgpt",
-        description: "Ну типо пародия на chatgpt, который в рф не работает",
+        description: "Интерфейс-пародия на ChatGPT",
         lang: ["Tailwind"],
         siteUrl: "https://kievsky332.github.io/chatgpt/",
         codeUrl: "https://github.com/kievsky332/chatgpt/"
     },
     {
         name: "Gemini-tailwind",
-        description: "Ну типо пародия на gemini, которая в рф запрещена. Написанная на tailwind",
+        description: "Пародия на интерфейс Gemini, написанная на Tailwind",
         lang: ["Tailwind"],
         siteUrl: "https://kievsky332.github.io/Gemini-tailwind/",
         codeUrl: "https://github.com/kievsky332/Gemini-tailwind/"
     },
     {
         name: "new-year-gift",
-        description: "Сайт для н/г. Нового года не будет — дед мороз принял ислам!",
+        description: "Юмористический новогодний сайт, с обратным отсчетом до нового года.",
         lang: ["Css","Javascript"],
         siteUrl: "https://kievsky332.github.io/new-year-gift",
         codeUrl: "https://github.com/kievsky332/new-year-gift/"
     },
     {
         name: "tired root",
-        description: "Новый недо маркет",
+        description: "Прототип маркетплейса (Luram)",
         lang: ["Css",'Javascript'],
         siteUrl: "https://kievsky332.github.io/market_luram",
         codeUrl: "https://github.com/kievsky332/market_luram/"
     },
     {
         name: "Country_Checker",
-        description: "Определение страны (хз зачем)",
+        description: "Определение страны пользователя через API. Аналог 2ip, но более легковесный.",
         lang: ["Css",'Javascript','API'],
         siteUrl: "https://kievsky332.github.io/Country_Checker/",
         codeUrl: "https://github.com/kievsky332/Country_Checker/"
     },
     {
         name: "AI BABUSHKA",
-        description: "Переводчик в стиле бабушки (ИИ)",
+        description: "Переводчик текста в стиле `бабушки` (с API) (! Не работает)",
         lang: ['php','Css','API'],
         siteUrl: "https://luram.sorav.ru/Ai-bubusia/",
         codeUrl: "https://github.com/kievsky332/AI_BABUSHKA/"
@@ -58,21 +58,21 @@ const projects = [
     },
     {
         name: "sorav.online",
-        description: "Сайт для отображения всех сайтов",
+        description: "Каталог и отображение всех моих веб-проектов",
         lang: ["Javascript",'Css'],
         siteUrl: "https://sorav.online",
         codeUrl: "https://github.com/kievsky332/sorav.online/"
     },
     {
         name: "Eye_site",
-        description: "Моргайте почаще - девиз нашего сайта",
+        description: "Сайт с напоминанием чаще моргать",
         lang: ["Javascript",'Css'],
         siteUrl: "https://kievsky332.github.io/Eye_site",
         codeUrl: "https://github.com/kievsky332/Eye_site/"
     },
     {
         name: "site-hvpn",
-        description: "Просто красивая страница",
+        description: "Демонстрационная красивая веб-страница",
         lang: ['Css'],
         siteUrl: "https://kievsky332.github.io/site-hvpn/",
         codeUrl: "https://github.com/kievsky332/site-hvpn/"
@@ -80,42 +80,42 @@ const projects = [
 
     {
         name: "Money_Site",
-        description: "Посчитайте сколько вы зарабатываете за минуту/секунду",
+        description: "Калькулятор заработка в реальном времени",
         lang: ["Javascript",'Css'],
         siteUrl: "https://kievsky332.github.io/Money_Site/",
         codeUrl: "https://github.com/kievsky332/Money_Site/"
     },
     {
         name: "BuSsite",
-        description: "ПРОТОТИП сайта, если вы уснете и пропустите кнопку — вас разбудит громким криком из скримера!",
+        description: "	Прототип сайта со скримером для проверки внимательности",
         lang: ["Javascript",'Css','API'],
         siteUrl: "https://kievsky332.github.io/BuSsite/",
         codeUrl: "https://github.com/kievsky332/BuSsite/"
     },
     {
         name: "Лурам",
-        description: "Новый недомессенджер",
+        description: "Прототип мессенджера `Luram`",
         lang: ["Javascript",'Css'],
         siteUrl: "https://kievsky332.github.io/luram-offline",
         codeUrl: "https://github.com/kievsky332/luram-offline/"
     },
     {
         name: "Find a spot",
-        description: "Попробуйте найти точку меньше чем за 2 секунды)",
+        description: "Мини-игра: найди точку менее чем за 2 секунды",
         lang: ["Javascript",'Css'],
         siteUrl: "https://kievsky332.github.io/find-a-spot/",
         codeUrl: "https://github.com/kievsky332/find-a-spot/"
     },
     {
         name: "Cutl",
-        description: "твой псевдо сократитель ссылок. На самом деле это скрытый муу вирус.            ⚠️ Не рекомендуется людям с эпилепсией и светочувствительностью — на сайте резкое мигание цветов.",
+        description: "Псевдо-сократитель ссылок с визуальными эффектами            ⚠️ Не рекомендуется людям с эпилепсией и светочувствительностью — на сайте резкое мигание цветов.",
         lang: ["Javascript",'Tailwind'],
         siteUrl: "https://kievsky332.github.io/Cutl/",
         codeUrl: "https://github.com/Kievsky332/Cutl"
     },
     {
         name: "Dzr.Progs",
-        description: "Сайт для дзержинского прогульщика",
+        description: "Сайт для дзержинского прогульщика. Сайт о статьях на тему походах.",
         lang: ["Php",'Tailwind'],
         siteUrl: "https://luram.sorav.ru/dzr"
     },
