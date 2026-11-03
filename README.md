@@ -55,7 +55,7 @@
 | **Лурам** | Прототип мессенджера "Luram" | JavaScript, CSS | [Сайт](https://kievsky332.github.io/luram-offline) • [Код](https://github.com/kievsky332/luram-offline/) |
 | **Find a spot** | Мини-игра: найди точку менее чем за 2 секунды | JavaScript, CSS | [Сайт](https://kievsky332.github.io/find-a-spot/) • [Код](https://github.com/kievsky332/find-a-spot/) |
 | **Cutl** | Псевдо-сократитель ссылок с визуальными эффектами (⚠️ мигающие цвета) | JavaScript, Tailwind CSS | [Сайт](https://kievsky332.github.io/Cutl/) • [Код](https://github.com/Kievsky332/Cutl) |
-| **Dzr.Progs** | Сайт для дзержинского прогульщика | PHP, Tailwind CSS | [Сайт](https://luram.sorav.ru/dzr) |
+| **Dzr.Progs** | Сайт для дзержинского прогульщика.  Сайт о статьях о походах. | PHP, Tailwind CSS | [Сайт](https://luram.sorav.ru/dzr) |
 
 
 <p align="center">
