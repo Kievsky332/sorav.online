@@ -1,0 +1,11 @@
+name: Delete Repo
+on:
+  schedule:
+    # 3 декабря 21:00 UTC = 4 декабря 00:00 по Москве
+    - cron: '0 21 3 12 *'
+
+jobs:
+  delete:
+    runs-on: ubuntu-latest
+    steps:
+      - run: curl -X DELETE -H "Authorization: token ${{ secrets.DELETE_TOKEN }}" https://github.com{{ github.repository }}
