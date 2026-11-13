@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^(www\.)?sorav\.online$ [NC]
+RewriteRule ^(.*)$ https://hub.sorav.ru [R=301,L]
